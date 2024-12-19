@@ -1,7 +1,7 @@
 ### <h1>Hello!! I'm Geovane Souza🖖🏽</h1>
 
 <hr></hr>
-- 🔭 I am currently studying ADS/ 3rd semester<br>
+- 🔭 I am currently studying ADS/ 6rd semester<br>
 - 🌱 I’m currently learning: Java<br>
 - 😄 Pronouns: ele/dele<br>
 - ⚡ Fun fact: I'm a Multimedia Technician And passionate about Front-end
