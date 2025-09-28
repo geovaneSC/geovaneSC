@@ -2,7 +2,7 @@
 
 <hr></hr>
 - 🔭 I am currently studying ADS/ 6rd semester<br>
-- 🌱 I’m currently learning: Java<br>
+- 🌱 I’m currently learning: PHP<br>
 - 😄 Pronouns: ele/dele<br>
 - ⚡ Fun fact: I'm a Multimedia Technician And passionate about Front-end
 <hr></hr>
