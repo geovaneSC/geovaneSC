@@ -10,7 +10,9 @@
   <a href="https://github.com/geovaneSC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovaneSC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovaneSC&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
+<hr></hr>
 
 <div align="left" style="margin-top:'50%'">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
