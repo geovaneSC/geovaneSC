@@ -25,3 +25,11 @@
   <a href="www.linkedin.com/in/geovane-souza-a8bb26221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   </div>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geovaneSc/geovaneSc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geovaneSc/geovaneSc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/geovaneSc/geovaneSc/output/pacman-contribution-graph.svg">
+</picture>
+
+###
