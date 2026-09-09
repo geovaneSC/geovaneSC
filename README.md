@@ -1,8 +1,9 @@
 ### <h1>Hello!! I'm Geovane Souza🖖🏽</h1>
 
 <hr></hr>
-- 🔭 I am currently studying ADS/ 6rd semester<br>
-- 🌱 I’m currently learning: PHP<br>
+- 🔭 I am currently in my 1º semester of Software Engineering.<br>
+- 👨‍🎓 Undergraduate Degree in Systems Analysis and Development<br>
+- 🌱 I’m currently learning: Laravel<br>
 - 😄 Pronouns: ele/dele<br>
 - ⚡ Fun fact: I'm a Multimedia Technician And passionate about Front-end
 <hr></hr>
