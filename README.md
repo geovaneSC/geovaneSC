@@ -2,7 +2,7 @@
 
 <hr></hr>
 - 🔭 I am currently in my 1º semester of Software Engineering.<br>
-- 👨‍🎓 Undergraduate Degree in Systems Analysis and Development<br>
+- 👨‍🎓 Degree in Systems Analysis and Development<br>
 - 🌱 I’m currently learning: Laravel<br>
 - 😄 Pronouns: ele/dele<br>
 - ⚡ Fun fact: I'm a Multimedia Technician And passionate about Front-end
